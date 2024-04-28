@@ -1,0 +1,288 @@
+.image-3-icon {
+    width: 65.89px;
+    position: relative;
+    height: 50px;
+    object-fit: cover;
+}
+.donate-parent {
+    font-family: Poppins;
+    margin-top: 50px;
+}
+.halalban {
+    position: relative;
+    background: linear-gradient(90.03deg, #768e5d, #133d00);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.image-3-parent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 0px 10px;
+}
+.halalban-home-icon {
+    width: 100%;
+    z-index: -1; 
+    position: absolute;
+    margin: 0 !important;
+    top: -2px;
+    max-width: 100%;
+    overflow: hidden;
+    height: 1210px;
+    flex-shrink: 0;
+    object-fit: cover;
+  }
+.donate {
+    width: 1518px;
+    position: relative;
+    display: inline-block;
+    background: linear-gradient(90deg, #fff, #c7ff8e);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.invest-in-our {
+    position: relative;
+}
+.radio-button {
+  margin-left: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.radio-input {
+  
+  display: none;
+  width: 125px;
+}
+
+.radio-label {
+  width: 193px;
+  cursor: pointer;
+  width: 200px;
+  align-items: center;
+  border-radius: 99px;
+  background-color: #768e5d;
+  color: #fff;
+  font-size: 16px;
+  flex-direction: row;
+    height: 45px;
+    overflow: hidden;
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 6px 6px;
+    box-sizing: border-box;
+    transition: 0.3s;
+}
+
+.radio-input:checked + .radio-label {
+  background-color: #292f22;
+
+}
+
+
+.radio-label:hover {
+  background-color: #6fa576;
+ 
+  
+}
+
+.fm-button {
+    display: inline-block;
+    position: relative;
+    margin: 10px;
+}
+
+.fm-button input {
+    display: none; 
+}
+
+.fm-button label {
+    width: 190px;
+    display: flex;
+    padding: 20px 20px;
+    background-color: #768e5d; 
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    height: 70px;
+    font-size: 16px;
+    justify-content: center;
+    transition: 0.3s;
+}
+
+.fm-button label:hover {
+    background-color: #6fa576;
+}
+
+.fm-button input:checked + label {
+    background-color: #292f22; 
+}
+
+
+input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    outline: none;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+.invest-in-our-future-parent {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 25px 0px;
+}
+.where-to-donate {
+    width: 560px;
+    background-color: rgba(255, 253, 238, 0.86);
+    height: 580px;
+    overflow: hidden;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.one-time-button-parent {
+    width: 542px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    justify-content: center;
+    padding: 0px 20px;
+    box-sizing: border-box;
+    gap: 20px;
+    text-align: left;
+    font-size: 15px;
+    color: #fff;
+}
+.giving-options-parent {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 10px 0px;
+    margin-bottom: 5px;
+}
+.frame-parent {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 33px 0px;
+}
+.pay-button-wrapper{
+    cursor: pointer;
+    border: 0;
+    padding: 11px 11px 12px;
+    background-color: #446324;
+    width: 193px;
+    border-radius: 99px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    white-space: nowrap;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: Poppins;
+    color: #fff;
+    margin-left: 31px;
+    height: 45px;
+    transition: 0.3s;
+}
+
+.pay-button-wrapper:hover {
+    background-color:rgb(66, 80, 62) ;
+    color:#949a9a ;
+   
+}
+
+.pay-button {
+    width: 163px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+    text-align: left;
+    font-size: 15px;
+    width: 616px;
+    margin: 40px;
+    margin-left: 15px;
+}
+.payment-details {
+    width: 560px;
+    background-color: rgba(255, 253, 238, 0.86);
+    height: 580px;
+    overflow: hidden;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    box-sizing: border-box;
+    gap: 25px 0px;
+    
+}
+.where-to-donate-parent {
+    display: flex;
+    margin-bottom: -80px;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 0px 100px;
+    font-size: 24px;
+}
+.donate-parent {
+    margin-bottom: -100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 74px 0px;
+}
+.help-inner {
+    align-self: stretch;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 150px 100px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    z-index: 1;
+    text-align: center;
+    font-size: 70px;
+}
+.help-page {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 18px;
+    color: #000;
+    font-family: Poppins;
+}

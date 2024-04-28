@@ -1,0 +1,726 @@
+.about5,
+.book10,
+.help10,
+.home10,
+.profile11 {
+  position: relative;
+  letter-spacing: 0.05em;
+  cursor: pointer;
+}
+.home10 {
+  color: #133c00;
+}
+.about5,
+.book10,
+.help10,
+.profile11 {
+  font-weight: 500;
+}
+
+.halalban-home-icon1 {
+  height: 1088px; 
+  width: 100%; 
+  position: absolute;
+  margin: 0;
+  top: -100px;
+  left: 0;
+  object-fit: cover;
+}
+
+.halalban10 {
+  font-family: Viga;
+  margin: 0;
+  width: 588px;
+  position: relative;
+  font-size: inherit;
+  line-height: 114%;
+  font-weight: 400;
+  display: inline-block;
+  max-width: 100%;
+}
+.book-now,
+.explore-natures-harmony {
+  position: relative;
+  font-family: Poppins;
+}
+.explore-natures-harmony {
+  margin: 0;
+  align-self: stretch;
+  height: 63px;
+  font-size: 36px;
+  font-weight: 400;
+  text-align: center;
+  display: inline-block;
+  flex-shrink: 0;
+} 
+.banner,
+.halalban-text {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.banner-title {
+  display: inline-block;
+  cursor: pointer;
+  border: 0;
+  padding: 5px 30px;
+  background-color: #65875c;
+  font-family: Poppins;
+  height: 50px;
+  transition: 0.3s;
+  border-radius: 99px;
+  white-space: nowrap;
+  text-decoration: none; 
+  font-size: 18px;
+  font-weight: 500;
+  color: #fff;
+  text-align: center;
+  margin: 0 20px; 
+  display: flex;
+  align-items: center;
+}
+
+.banner-title:hover {
+  background-color:#133c00;
+}
+
+.button-container {
+  display: flex; 
+  justify-content: center;  
+  margin-top: 0; 
+  padding-top: 0; 
+}
+
+
+
+.banner,
+.halalban-text {
+  max-width: 100%;
+}
+.halalban-text {
+  width: 1520px;
+  flex-direction: column;
+  padding: 20px 0;
+  gap: 27px;
+  z-index: 1;
+}
+.banner {
+  align-self: stretch;
+  background-color: #b8b8b8;
+  overflow: hidden;
+  flex-direction: row;
+  padding: 10px 20px;
+  position: relative;
+  gap: 28px;
+  min-height: 980px;
+  text-align: left;
+  font-size: 150px;
+  color: #fff;
+  font-family: Viga;
+}
+.halalban-about-icon {
+  height: 1088px; 
+  width: 100%; 
+  position: absolute;
+  margin: 0;
+  top: -100px;
+  left: 0;
+  object-fit: cover;
+}
+.the-usls-ecopark {
+  margin: 0;
+  width: 1558px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  background: linear-gradient(90deg, #ecf0bb, #768e5d 89.5%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+  max-width: 100%;
+  box-sizing: border-box;
+  padding-left: 20px;
+  padding-right: 20px;
+  z-index: 1;
+}
+.as-a-multifaceted,
+.p,
+.usls-ecopark-nestled {
+  margin: 0;
+}
+.usls-ecopark-nestled-container {
+  flex: 1;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+  min-width: 453px;
+  max-width: 100%;
+}
+.at-usls-ecopark {
+  font-family: Poppins;
+}
+.at-usls-ecopark-we-are-commit {
+  margin: 0;
+}
+.span {
+  font-family: Poppins;
+}
+.p1 {
+  margin: 0;
+}
+.contact-information1 {
+  font-family: Poppins;
+}
+.address-usls-ecopark-baranga,
+.contact-information,
+.email-ecoparkuslseduph,
+.phone-034-4562357-034-47668 {
+  margin: 0;
+}
+.wwwfacebookcomuslsecopark1 {
+  text-decoration: underline;
+}
+.wwwfacebookcomuslsecopark {
+  color: inherit;
+}
+.facebook-wwwfacebookcomusl {
+  margin: 0;
+}
+.at-usls-ecopark-container {
+  flex: 1;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+  min-width: 453px;
+  max-width: 100%;
+}
+.ecopark-desc {
+  width: 1514px;
+  background-color: rgba(255, 253, 238, 0.86);
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 40px;
+  box-sizing: border-box;
+  gap: 40px;
+  max-width: 100%;
+  z-index: 1;
+  font-size: 16px;
+}
+.about-frame-title,
+.about6 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  max-width: 100%;
+}
+.about-frame-title {
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  gap: 40px;
+  min-height: 950px;
+}
+.about6 {
+  overflow: hidden;
+  align-items: flex-end;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: 70px;
+  color: #000;
+  font-family: Poppins;
+}
+.br-rolando-r1,
+.ecopark-facilities1 {
+  position: relative;
+  display: inline-block;
+}
+.ecopark-facilities1 {
+  margin: 0;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  max-width: 100%;
+}
+.br-rolando-r1 {
+  width: 248px;
+}
+.the-center-has1 {
+  align-self: stretch;
+  position: relative;
+  font-size: 14px;
+  line-height: 150%;
+}
+.swimming-pools-group {
+  align-self: stretch;
+  height: 212px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 40px;
+  box-sizing: border-box;
+  gap: 10px;
+}
+.image-1-icon12 {
+  width: 350px;
+  flex: 1;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  max-width: 104%;
+  flex-shrink: 0;
+}
+.ecopark-center3 {
+  height: 462px;
+  background-color: #fffdee;
+  box-shadow: 0 0 99px rgba(0, 0, 0, 0.06);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.swimming-pools5 {
+  width: 248px;
+  position: relative;
+  display: inline-block;
+}
+.the-swimming-pools1 {
+  align-self: stretch;
+  position: relative;
+  font-size: 14px;
+  line-height: 150%;
+}
+.swimming-pools-container {
+  align-self: stretch;
+  height: 212px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 40px;
+  box-sizing: border-box;
+  gap: 10px;
+}
+.image-1-icon13 {
+  width: 350px;
+  flex: 1;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  max-width: 104%;
+  flex-shrink: 0;
+}
+.swimming-pools4 {
+  height: 462px;
+  background-color: #fffdee;
+  box-shadow: 0 0 99px rgba(0, 0, 0, 0.06);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.multi-purpose-hall1 {
+  width: 248px;
+  position: relative;
+  display: inline-block;
+}
+.the-multi-purpose-hall1 {
+  align-self: stretch;
+  position: relative;
+  font-size: 14px;
+  line-height: 150%;
+}
+.multi-purpose-hall-group {
+  align-self: stretch;
+  height: 212px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 40px;
+  box-sizing: border-box;
+  gap: 10px;
+}
+.image-1-icon14 {
+  width: 350px;
+  flex: 1;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  max-width: 104%;
+  flex-shrink: 0;
+}
+.hall3 {
+  height: 462px;
+  background-color: #fffdee;
+  box-shadow: 0 0 99px rgba(0, 0, 0, 0.06);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.fr-gratians-garden1 {
+  width: 248px;
+  position: relative;
+  display: inline-block;
+}
+.fr-gratians-orchid1 {
+  align-self: stretch;
+  position: relative;
+  font-size: 14px;
+  line-height: 150%;
+}
+.fr-gratians-garden-orchid-f-group {
+  align-self: stretch;
+  height: 212px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 40px;
+  box-sizing: border-box;
+  gap: 10px;
+}
+.image-1-icon15 {
+  width: 350px;
+  flex: 1;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  max-width: 104%;
+  flex-shrink: 0;
+}
+.facis,
+.orchid-farm3 {
+  align-items: center;
+  max-width: 100%;
+}
+.orchid-farm3 {
+  height: 462px;
+  background-color: #fffdee;
+  box-shadow: 0 0 99px rgba(0, 0, 0, 0.06);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.facis {
+  width: 1520px;
+  display: grid;
+  flex-direction: row;
+  justify-content: center;
+  gap: 40px;
+  min-height: 530px;
+  grid-template-columns: repeat(4, minmax(253px, 1fr));
+  font-size: 18px;
+  color: #000;
+}
+.see-more {
+  position: relative;
+  font-size: 18px;
+  font-weight: 500;
+  font-family: Poppins;
+  color: #fff;
+  text-align: left;
+}
+.button4,
+.facilities5 {
+  display: flex;
+  align-items: center;
+  box-sizing: border-box;
+}
+.button4 {
+  cursor: pointer;
+  border: 0;
+  padding: 0 38px;
+  transition: 0.3s;
+  background-color: #65875c;
+  height: 50px;
+  border-radius: 99px;
+  flex-direction: row;
+  justify-content: center;
+  white-space: nowrap;
+}
+
+.button4:hover {
+  background-color: #133c00;
+}
+
+.button4 a {
+  text-decoration: none; 
+  color: inherit; 
+  font-family: Poppins;
+  font-size: 15px;
+  color: #fff;
+}
+
+.facilities5 {
+  align-self: stretch;
+  background: linear-gradient(180deg, #5d8077, #97ab90);
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 100px 20px;
+  gap: 78px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 36px;
+  color: #fff;
+  font-family: Poppins;
+}
+.halalban-sdg-icon {
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: -2px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 973px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.sdg-13-take {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  background: linear-gradient(90deg, #ecf0bb, #768e5d 89.5%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.blank-line,
+.in-response-to,
+.throughout-its-history {
+  margin: 0;
+}
+.throughout-its-history-container {
+  flex: 1;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+  min-width: 455px;
+  max-width: 100%;
+}
+.aligned-with-sustainable,
+.blank-line1,
+.furthermore-by-integrating {
+  margin: 0;
+}
+.aligned-with-sustainable-container {
+  flex: 1;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+  min-width: 455px;
+  max-width: 100%;
+}
+.sdg-desc {
+  align-self: stretch;
+  background-color: rgba(255, 253, 238, 0.86);
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 40px;
+  box-sizing: border-box;
+  gap: 40px;
+  max-width: 100%;
+  font-size: 16px;
+}
+.nav-bar,
+.social-media-links1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.nav-bar {
+  align-self: stretch;
+  gap: 40px;
+}
+.social-media-links1 {
+  width: 1520px;
+  z-index: 1;
+}
+.layer-0-14,
+.sdg {
+  align-self: stretch;
+  max-width: 100%;
+  overflow: hidden;
+}
+.sdg {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 150px 20px;
+  box-sizing: border-box;
+  position: relative;
+  gap: 40px;
+  text-align: left;
+  font-size: 70px;
+  color: #000;
+  font-family: Poppins;
+}
+.layer-0-14 {
+  flex: 1;
+  max-height: 100%;
+  object-fit: cover;
+}
+.halalban11,
+.layer-0-14 {
+  position: relative;
+}
+.copyright-info {
+  width: 120px;
+  height: 137px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  font-size: 18px;
+}
+.facebook-icon4,
+.instagram-icon4,
+.twitter-icon4,
+.youtube-icon4 {
+  height: 20px;
+  width: 20px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 20px;
+}
+.social-media-bar {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 20px;
+}
+.home11 {
+  position: relative;
+  letter-spacing: 0.05em;
+}
+.book11,
+.facilities6,
+.help11,
+.profile12 {
+  position: relative;
+  letter-spacing: 0.05em;
+  font-weight: 500;
+}
+.halalban-usls-ecopark4 {
+  position: relative;
+  letter-spacing: 0.05em;
+  color: #fffad1;
+  display: inline-block;
+  max-width: 100%;
+}
+.home9 {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  align-items: flex-end;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 975px) {
+  .ecopark-desc {
+    width: calc(100% - 40px);
+  }
+}
+@media screen and (max-width: 700px) {
+  .navbar {
+    padding-left: 100px;
+    padding-right: 100px;
+    box-sizing: border-box;
+  }
+  .facis {
+    justify-content: center;
+    grid-template-columns: repeat(2, minmax(253px, 438px));
+  }
+  .facilities5,
+  .sdg {
+    padding-top: 65px;
+    padding-bottom: 65px;
+    box-sizing: border-box;
+  }
+  .sdg {
+    padding-top: 97px;
+    padding-bottom: 97px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .menu {
+    display: none;
+  }
+  .navbar {
+    padding-left: 50px;
+    padding-right: 50px;
+    box-sizing: border-box;
+  }
+  .halalban10 {
+    font-size: 60px;
+    line-height: 103px;
+  }
+  .explore-natures-harmony {
+    font-size: 29px;
+  }
+  .the-usls-ecopark {
+    font-size: 56px;
+  }
+  .at-usls-ecopark-container,
+  .usls-ecopark-nestled-container {
+    min-width: 100%;
+  }
+  .about-frame-title,
+  .ecopark-desc {
+    gap: 40px;
+  }
+  .ecopark-facilities1 {
+    font-size: 29px;
+  }
+  .facis {
+    gap: 40px;
+    grid-template-columns: minmax(253px, 1fr);
+  }
+  .facilities5 {
+    gap: 78px;
+    padding-top: 42px;
+    padding-bottom: 42px;
+    box-sizing: border-box;
+  }
+  .sdg-13-take {
+    font-size: 56px;
+  }
+  .aligned-with-sustainable-container,
+  .throughout-its-history-container {
+    min-width: 100%;
+  }
+  .nav-bar,
+  .sdg,
+  .sdg-desc,
+  .social-media-links1 {
+    gap: 40px;
+  }
+  .sdg {
+    padding-top: 63px;
+    padding-bottom: 63px;
+    box-sizing: border-box;
+  }
+}

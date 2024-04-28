@@ -1,0 +1,611 @@
+.image-3-icon1 {
+  height: 50px;
+  width: 65.9px;
+  position: relative;
+  object-fit: cover;
+}
+.halalban1 {
+  position: relative;
+  background: linear-gradient(90.03deg, #768e5d, #133c00);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  white-space: nowrap;
+}
+.f-r-a-m-eroot {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 9px;
+}
+.about1,
+.book2,
+.help1,
+.home1,
+.profile1 {
+  position: relative;
+  letter-spacing: 0.05em;
+  cursor: pointer;
+}
+.home1 {
+  color: #133c00;
+}
+.about1,
+.book2,
+.help1,
+.profile1 {
+  font-weight: 500;
+}
+.menu1,
+.navbar1 {
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+}
+.menu1 {
+  width: 449px;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+  font-size: 16px;
+  font-family: Poppins;
+}
+.navbar1 {
+  align-self: stretch;
+  background-color: #fff;
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+  padding: 25px 20px;
+  box-sizing: border-box;
+  gap: 28px 923px;
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  text-align: left;
+  font-size: 18px;
+  color: #000;
+  font-family: Viga;
+}
+.halalban-reserve-icon {
+  width: 100%;
+  height: 1080px;
+  position: absolute;
+  margin: 0 !important;
+  top: -100px;
+  right: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.book-a-reservation {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.facility {
+  position: relative;
+}
+.pool-vector-icon {
+  height: 14.2px;
+  width: 11px;
+  position: relative;
+}
+.swimming-pool {
+  position: relative;
+  font-size: 14px;
+  font-family: Poppins;
+  color: #000;
+  text-align: left;
+}
+.facility1 {
+  cursor: pointer;
+  border: 0;
+  padding: 10px 8px 10px 10px;
+  background-color: #c1d1b5;
+  border-radius: 8px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 9px;
+  white-space: nowrap;
+}
+.facility1:hover {
+  background-color: #8f9e82;
+}
+.bottom-frame-r-e-s-e-r-v-e-b-o {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.check-in-date-and {
+  position: relative;
+}
+.calendar52-icon {
+  height: 12px;
+  width: 11.7px;
+}
+.calendar52-icon,
+.mon-0219 {
+  position: relative;
+}
+.text-swimming-pool-name {
+  height: 20.4px;
+  width: 1px;
+  position: relative;
+  border-right: 0.8px solid #bdbdbd;
+  box-sizing: border-box;
+}
+.vector-f-a-c-i-l-i-t-y-v-e-c-t {
+  height: 14.4px;
+  width: 14.1px;
+  position: relative;
+}
+.am {
+  position: relative;
+  white-space: nowrap;
+}
+.check-in,
+.frame-date-and-time-checkin {
+  display: flex;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.check-in {
+  border-radius: 8px;
+  background-color: #c1d1b5;
+  overflow: hidden;
+  flex-direction: row;
+  align-items: center;
+  padding: 10px 8px 10px 10px;
+}
+.frame-date-and-time-checkin {
+  flex-direction: column;
+  align-items: flex-start;
+}
+.check-out-date-and {
+  position: relative;
+}
+.calendar52-icon1 {
+  height: 12px;
+  width: 11.7px;
+  position: relative;
+}
+.line,
+.mon-02191 {
+  position: relative;
+}
+.line {
+  height: 20.4px;
+  width: 1px;
+  border-right: 0.8px solid #bdbdbd;
+  box-sizing: border-box;
+}
+.vector-icon {
+  height: 14.4px;
+  width: 14.1px;
+  position: relative;
+}
+.pm {
+  position: relative;
+  white-space: nowrap;
+}
+.check-out {
+  border-radius: 8px;
+  background-color: #c1d1b5;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 10px 8px 10px 10px;
+  gap: 10px;
+}
+.frame-date-and-time-checkin1,
+.reserve-top, reserve-bottom {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+}
+
+
+.reserve-top,
+.reserve-bottom {
+  background-color: rgba(255, 253, 238, 0.86);
+  width: 100%;
+  overflow-x: auto;
+  flex-direction: row;
+  padding: 40px 52px 40px 40px;
+  gap: 40px 39px;
+  z-index: 1;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.input-container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  flex-basis: calc(50% - 20px); 
+}
+
+.input-container.date-time {
+  flex-basis: 100%; 
+}
+
+.date-time-row {
+  display: flex;
+  gap: 20px;
+  flex-basis: 50%; 
+}
+
+.date-time-row .input-container {
+  flex-basis: 50%; 
+}
+
+.input-container label {
+  display: block;
+}
+
+.submit-button {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.submit-button button {
+  margin-top: 50px;
+  cursor: pointer;
+  border: 0;
+  padding: 11px 11px 12px;
+  background-color: #65875c;
+  width: 257px;
+  border-radius: 99px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  white-space: nowrap;
+  font-size: 18px;
+  font-weight: 500;
+  font-family: Poppins;
+  color: #fff;
+  transition: 0.3s; 
+}
+
+.submit-button button:hover {
+  background-color: #80a175;
+}
+
+.event-name {
+  position: relative;
+}
+.mdirename-box-outline-icon {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.team-building-activity {
+  position: relative;
+}
+.event-name1 {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+.event-name1 {
+  border-radius: 8px;
+  background-color: #c1d1b5;
+  overflow: hidden;
+  flex-direction: row;
+  align-items: center;
+  padding: 10px;
+  white-space: nowrap;
+}
+.organization-group {
+  position: relative;
+}
+.fluentorganization-16-regular-icon {
+  height: 16px;
+  width: 16px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.usls-information-technology {
+  position: relative;
+}
+.organization,
+.organization-group-parent {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+.organization {
+  border-radius: 8px;
+  background-color: #c1d1b5;
+  overflow: hidden;
+  flex-direction: row;
+  align-items: center;
+  padding: 10px;
+  white-space: nowrap;
+}
+.organization-group-parent {
+  flex-direction: column;
+  align-items: flex-start;
+}
+.number-of-people {
+  position: relative;
+}
+.vector-icon1 {
+  height: 11px;
+  width: 15.8px;
+}
+.div,
+.vector-icon1 {
+  position: relative;
+}
+.no-of-ppl,
+.number-of-people-parent {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+.no-of-ppl {
+  border-radius: 8px;
+  background-color: #c1d1b5;
+  overflow: hidden;
+  flex-direction: row;
+  align-items: center;
+  padding: 10px;
+}
+.number-of-people-parent {
+  flex-direction: column;
+  align-items: flex-start;
+}
+.reerve-bottom {
+  background-color: rgba(255, 253, 238, 0.86);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 40px 31px 40px 40px;
+  gap: 40px;
+  z-index: 1;
+}
+.container-items {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 41px;
+  max-width: 100%;
+  font-size: 14px;
+  color: #000;
+}
+.button1 {
+  cursor: pointer;
+  border: 0;
+  padding: 11px 11px 12px;
+  background-color: #65875c;
+  width: 257px;
+  border-radius: 99px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  white-space: nowrap;
+  z-index: 1;
+}
+.button1:hover {
+  background-color: #80a175;
+}
+.booking,
+.layer-0-1 {
+  align-self: stretch;
+  max-width: 100%;
+  overflow: hidden;
+}
+.booking-form {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: -50px;
+}
+.booking {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  padding: 150px 100px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  z-index: 1;
+  text-align: center;
+  font-size: 70px;
+  padding: 208px 21px 208px 20px;
+  box-sizing: border-box;
+  position: relative;
+  gap: 56px 28px;
+  text-align: left;
+  font-size: 36px;
+  color: #fff;
+  font-family: Poppins;
+}
+.halalban-home-icon {
+  width: 100%;
+  z-index: -1; 
+  position: absolute;
+  margin: 0 !important;
+  top: -2px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 1210px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.layer-0-1 {
+  flex: 1;
+  max-height: 100%;
+  object-fit: cover;
+}
+.halalban2,
+.layer-0-1 {
+  position: relative;
+}
+.layer-rectangle {
+  width: 120px;
+  height: 137px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 10px;
+  font-size: 18px;
+}
+.facebook-icon,
+.instagram-icon,
+.twitter-icon,
+.youtube-icon {
+  height: 20px;
+  width: 20px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 20px;
+}
+.footer-content {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 20px;
+}
+.home2 {
+  position: relative;
+  letter-spacing: 0.05em;
+}
+.facilities {
+  font-weight: 500;
+}
+.book3,
+.facilities,
+.help2,
+.profile2 {
+  position: relative;
+  letter-spacing: 0.05em;
+}
+.help2,
+.profile2 {
+  font-weight: 500;
+}
+.primary-nav {
+  width: 414px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+  max-width: 100%;
+}
+.halalban-usls-ecopark {
+  position: relative;
+  letter-spacing: 0.05em;
+  color: #fffad1;
+  display: inline-block;
+  max-width: 100%;
+}
+
+@media screen and (max-width: 1200px) {
+  .navbar1 {
+    gap: 28px 923px;
+  }
+}
+@media screen and (max-width: 975px) {
+  .book-a-reservation {
+    font-size: 29px;
+  }
+  .booking {
+    padding-top: 135px;
+    padding-bottom: 135px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 700px) {
+  .menu1 {
+    display: none;
+  }
+  .navbar1 {
+    gap: 28px 923px;
+  }
+  .reserve-top {
+    gap: 40px 39px;
+    padding-right: 26px;
+    box-sizing: border-box;
+  }
+  .reerve-bottom {
+    flex-wrap: wrap;
+    gap: 40px;
+  }
+  .f-r-a-m-e-c-h-e-c-k-i-n-d-e-t {
+    gap: 41px;
+  }
+  .booking,
+  .footer {
+    box-sizing: border-box;
+  }
+  .booking {
+    padding-top: 88px;
+    padding-bottom: 88px;
+  }
+  .footer {
+    gap: 40px;
+    padding-left: 29px;
+    padding-right: 29px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .navbar1 {
+    gap: 28px 923px;
+  }
+  .book-a-reservation {
+    font-size: 22px;
+  }
+  .booking {
+    gap: 56px 28px;
+  }
+  .primary-nav {
+    flex-wrap: wrap;
+  }
+  .footer {
+    padding-top: 38px;
+    padding-bottom: 42px;
+    box-sizing: border-box;
+  }
+}

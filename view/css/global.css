@@ -1,0 +1,196 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+/* Navbar */
+.menu,
+.navbar {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.menu {
+  width: 449px;
+  justify-content: flex-end;
+  padding: 20px 0;
+  gap: 39px;
+  font-size: 16px;
+  font-family: Poppins;
+}
+.navbar {
+  align-self: stretch;
+  height: 100px;
+  background-color: #fff;
+  overflow: hidden;
+  flex-shrink: 0;
+  justify-content: space-between;
+  padding: 10px 200px;
+  gap: 20px;
+  top: 0;
+  z-index: 99;
+  position: fixed; 
+  width: 100%;
+  text-align: left;
+  font-size: 18px;
+  color: #000;
+  font-family: Viga;
+}
+
+.frameroot {
+  position: relative;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 10px;
+  text-align: left;
+  font-size: 18px;
+  font-family: Viga;
+}
+
+.image-3-icon {
+  width: 65.89px;
+  position: relative;
+  height: 50px;
+  object-fit: cover;
+}
+
+.halalban {
+  font-family: Viga;
+  position: relative;
+  background: linear-gradient(90.03deg, #768e5d, #133d00);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+
+.navbar a {
+  text-decoration: none; 
+  color: black;
+  font-weight: normal; 
+}
+
+
+.navbar a.active {
+  font-weight: bold; 
+  color: darkgreen; 
+}
+ 
+
+/*footer*/
+.footer1,
+.home9 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.footer1 {
+  position: relative; 
+  bottom: 0; 
+  width: 100%; 
+  background: radial-gradient(50% 50%at 50% 50%, #5f9152, #1d4944);
+  align-items: center;
+  padding: 59px 20px;
+  box-sizing: border-box;
+  gap: 40px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 14px;
+  color: #fff;
+  font-family: Poppins;  
+}
+.home4 {
+  position: relative;
+  letter-spacing: 0.05em;
+}
+.book5,
+.facilities1 {
+  font-weight: 500;
+}
+.book5,
+.facilities1,
+.help4,
+.profile6 {
+  position: relative;
+  letter-spacing: 0.05em;
+}
+.help4 {
+  font-weight: 500;
+}
+.profile3 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.profile3 {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  align-items: flex-end;
+  letter-spacing: normal;
+  display: flex; 
+  justify-content: center; 
+}
+.facebook-icon1,
+.instagram-icon1,
+.twitter-icon1,
+.youtube-icon1 {
+  height: 20px;
+  width: 20px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 20px;
+}
+.social-media-links {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 20px;
+}
+.halalban-usls-ecopark1 {
+  position: relative;
+  letter-spacing: 0.05em;
+  color: #fffad1;
+  display: inline-block;
+  max-width: 100%;
+}
+.layer-0-11 {
+  align-self: stretch;
+  max-width: 100%;
+  overflow: hidden;
+}
+.layer-0-11 {
+  flex: 1;
+  max-height: 100%;
+  object-fit: cover;
+}
+.layer-0-11 {
+  position: relative;
+}
+.layer-0-1-parent {
+  width: 120px;
+  height: 137px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  font-size: 18px;
+}
+.menu3 {
+  width: 415px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  max-width: 100%;
+}
